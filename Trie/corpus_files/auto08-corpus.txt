@@ -1,0 +1,5 @@
+abcd abcD abCd abCD aBcd aBcD aBCd aBCD Abcd AbcD AbCd AbCD ABcd ABcD ABCd .
+a ab abc abcd .
+b bc bcd .
+c cd .
+d .
